@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proiectul Meu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to MiG website (by Gaiseanu Mihai-Daniel - anul 1 ID, Grupa 106)!</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Despre proiect</h2>
+            <p>Acesta este un assignment in realizarea unui website la Dezvoltarea Aplicatiilor Web.</p>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>Pentru mai multe informații, trimiteți un email la: <a href="mailto:Mihai.Gaiseanu@s.utm.ro">Mihai.Gaiseanu@s.utm.ro   </a></p>
+        </section>
+    </main>
+    <footer>
+        <p>©  Dezvoltarea Aplicatiilor Web. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
